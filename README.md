@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijin Govind
+- 👋 Hi, I’m @Vijin Govind
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning programming
 
